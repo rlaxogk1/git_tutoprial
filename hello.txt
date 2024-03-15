@@ -1,1 +1,5 @@
-!Hello world!
+<<<<<<< HEAD
+!!Hello world!
+=======
+!Hello world!!
+>>>>>>> new_branch
